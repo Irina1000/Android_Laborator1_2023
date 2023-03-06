@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laborator1_2023</string>
+
+    <string name="hello_world">Hello</string>
+    <string name="name">Name</string>
+    <string name="say_hi">Say hi</string>
+    <string name="error_msg">Name field must be completed</string>
+</resources>
